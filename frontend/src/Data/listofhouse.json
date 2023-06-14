@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "Name":"Wizard king palace",
+    "Type":"Palace",
+    "price":1200000
+  },
+  {
+    "id":2,
+    "Name":"House of silva",
+    "Type":"Castle",
+    "price":125000
+  },
+  {
+    "id":3,
+    "Name":"House of Kira",
+    "Type":"Mansion",
+    "price":100000
+  },
+  {
+    "id":4,
+    "Name":"House of vermillion",
+    "Type":"Castle",
+    "price":112000
+  },
+  {
+    "id":5,
+    "Name":"House of claude",
+    "Type":"House",
+    "price":120000
+  },
+  {
+    "id":6,
+    "Name":"House of Black bulls",
+    "Type":"Hideout",
+    "price":2000000
+  }
+]
