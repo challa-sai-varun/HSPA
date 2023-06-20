@@ -1,37 +1,48 @@
 [
   {
     "id":1,
-    "Name":"Wizard king palace",
+    "SellRent":1,
+    "Name":"Wizard palace",
     "Type":"Palace",
-    "price":1200000
+    "price":1200000,
+    "Image":"prop-1"
   },
   {
     "id":2,
+    "SellRent":2,
     "Name":"House of silva",
     "Type":"Castle",
-    "price":125000
+    "price":125000,
+    "Image":"prop-2"
   },
   {
     "id":3,
+    "SellRent":1,
     "Name":"House of Kira",
     "Type":"Mansion",
-    "price":100000
+    "price":100000,
+    "Image":"prop-3"
   },
   {
     "id":4,
-    "Name":"House of vermillion",
+    "SellRent":2,
+    "Name":"House of Asta",
     "Type":"Castle",
-    "price":112000
+    "price":112000,
+    "Image":"prop-4"
   },
   {
     "id":5,
+    "SellRent":1,
     "Name":"House of claude",
     "Type":"House",
-    "price":120000
+    "price":120000,
+    "Image":"prop-5"
   },
   {
     "id":6,
-    "Name":"House of Black bulls",
+    "SellRent":2,
+    "Name":"House of Yami",
     "Type":"Hideout",
     "price":2000000
   }
